@@ -1,0 +1,22 @@
+{
+  "version": "2.3.0",
+  "ui_version": "2.3",
+  "platform": "Windows x64",
+  "python": "3.11.9",
+  "pyside6": "6.12.0",
+  "pyinstaller": "6.22.3",
+  "ffmpeg": "8.0.1-full_build-www.gyan.dev",
+  "ffmpeg_source": "894da5ca7d",
+  "exe_sha256": "a82b7cf9c50ea6eb1dda47ee8db367a55407e6a147278e2d70193d5e93ad3811",
+  "app_source_sha256": {
+    "run_app.py": "5891edda7dbc1b81b59dff5df2dd4e1321e14126d7742b37f2374643fc15f907",
+    "app/compare.py": "ce051904abbb570613b9e1b5cf1fcc03ceebd834037c980b0f48e69b0e07c719",
+    "app/diagnostics.py": "7530f0800822a0c359a4203a29c426c6f777467b11824093250de06740958c1b",
+    "app/media.py": "e78b95a5c98a3bf5ce13ad535fc54ed286fc64ac8ddd8dd807b9568f06ed89ae",
+    "app/profiles.py": "7425f3a9959c43eb8fec8476c0246e8b3f1785fd794e3f735c18202aa65f366c",
+    "app/settings.py": "ac17da63a7f90f755a6c43170bba70c2e10652e9282c56e766f772b16a70646e",
+    "app/window.py": "04596c0b1c3437722c97f1277d1a4dde054c00264ed65139f0e57b01b00fa2ec",
+    "app/workers.py": "2ed02873304de981043888b0fb3b32db1436b80766723161294547f02a5b540d",
+    "app/__init__.py": "b1840780c72d24d9707ca0d190f49f5e33db7b0bd8bfb872facf76acb60283f4"
+  }
+}
